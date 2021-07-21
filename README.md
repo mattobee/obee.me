@@ -1,6 +1,6 @@
 # obee.me
 
-A simple Netlify-powered URL shortner based on [https://github.com/cassidoo/cass.run].
+A simple Netlify-powered URL shortner based on https://github.com/cassidoo/cass.run.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0f55d4d3-5748-4cff-9655-662cf2bbc520/deploy-status)](https://app.netlify.com/sites/obeeme/deploys)
 
